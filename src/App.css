@@ -1,0 +1,23 @@
+.card{
+  width:300px;
+  background-color: white;
+  height:480px;
+  border-radius: 15px;
+  margin-top:25px;
+  font-family: Calibri;
+}
+
+.card-text{
+  text-align: left;
+  font-size: 15px;
+  font-family: Calibri;
+}
+
+.btn{
+  width: 260px;
+  border-radius: 25px;
+}
+
+.text-muted{
+  color: #bcb4b4 !important;
+}

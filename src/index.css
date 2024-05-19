@@ -1,0 +1,13 @@
+.box{
+  background: linear-gradient(90deg,#0366E8,#31ABFE);
+  text-align: center;
+  padding: 10px;
+}
+
+.price_card{
+  display: flex;
+  gap:20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
